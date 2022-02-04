@@ -1,0 +1,5 @@
+train: 'C:\Dev\github\livtomyolo\boxes_convert\images\train'
+val: 'C:\Dev\github\livtomyolo\boxes_convert\images\val'
+
+nc: 2
+names: ['antibiotica', 'charger']
