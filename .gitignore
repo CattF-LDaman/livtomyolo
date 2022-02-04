@@ -41,6 +41,8 @@ results*.csv
 coco/
 coco128/
 VOC/
+objects/
+objects_convert/
 
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~

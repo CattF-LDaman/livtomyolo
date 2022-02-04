@@ -1,0 +1,5 @@
+train: 'C:\Dev\github\livtomyolo\objects_convert\images\train'
+val: 'C:\Dev\github\livtomyolo\objects_convert\images\val'
+
+nc: 3
+names: ['antibiotica', 'zuipkaart', 'sleutel']

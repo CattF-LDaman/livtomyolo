@@ -45,9 +45,6 @@ def extract_info_from_xml(xml_file):
 
     return info_dict
 
-# Dictionary that maps class names to IDs
-class_name_to_id_mapping = {"with_mask": 0, "without_mask": 1, "mask_weared_incorrect":2}
-
 def convert_to_yolov5(target_dir, filename, info_dict, class_mapping):
     """
     Converting data to YOLO format
