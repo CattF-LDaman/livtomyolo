@@ -5,7 +5,7 @@ from .dataset import class_color_mapping
 from contextlib import redirect_stdout
 with redirect_stdout(None):
     import pygame
-    
+
 import sys
 
 class App:
@@ -15,7 +15,7 @@ class App:
         self.fetcher = Fetcher(server_address, server_port)
         print('Fetcher created.')
 
-        self.screen = pygame.display.set_mode(self.fetcher.resolution)
+        self.screen = pygame.display.set_mode(self.fetcher.resolution, pygame.RESIZABLE|pygame.SCALED)
         pygame.display.set_caption(f"Object Detection: {server_address}:{server_port}")
 
         self.running = True
