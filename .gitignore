@@ -54,6 +54,7 @@ boxes_convert/
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
 *.pt
+!boxes.pt
 *.pb
 *.onnx
 *.engine

@@ -1,0 +1,2 @@
+
+HNDSHK = b"\x45\x2fOBJECT"
