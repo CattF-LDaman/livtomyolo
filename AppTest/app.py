@@ -2,7 +2,10 @@
 from .fetcher import Fetcher
 from .dataset import class_color_mapping
 
-import pygame
+from contextlib import redirect_stdout
+with redirect_stdout(None):
+    import pygame
+    
 import sys
 
 class App:
