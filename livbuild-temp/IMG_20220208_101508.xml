@@ -1,7 +1,7 @@
 <annotation>
-	<folder>livbuild</folder>
+	<folder>livbuild-temp</folder>
 	<filename>IMG_20220208_101508.jpg</filename>
-	<path>C:\Users\Luwe\Dev\livtomyolo\livbuild\IMG_20220208_101508.jpg</path>
+	<path>C:\Users\Luwe\Dev\livtomyolo\livbuild-temp\IMG_20220208_101508.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,99 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>airium</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>164</xmin>
-			<ymin>1627</ymin>
-			<xmax>578</xmax>
-			<ymax>2000</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>tagged_brick</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>241</xmin>
-			<ymin>454</ymin>
-			<xmax>1350</xmax>
-			<ymax>886</ymax>
+			<xmin>246</xmin>
+			<ymin>441</ymin>
+			<xmax>1346</xmax>
+			<ymax>854</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>tagged_worker</name>
+		<name>airium</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1614</xmin>
-			<ymin>386</ymin>
-			<xmax>2091</xmax>
-			<ymax>873</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tagged_hook</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1223</xmin>
-			<ymin>1359</ymin>
-			<xmax>1568</xmax>
-			<ymax>1686</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2178</xmin>
-			<ymin>1182</ymin>
-			<xmax>2591</xmax>
-			<ymax>1527</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1709</xmin>
-			<ymin>1995</ymin>
-			<xmax>2100</xmax>
-			<ymax>2373</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2232</xmin>
-			<ymin>2854</ymin>
-			<xmax>2632</xmax>
-			<ymax>3282</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tagged_arrow_wall</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1468</xmin>
-			<ymin>2723</ymin>
-			<xmax>1918</xmax>
-			<ymax>3268</ymax>
+			<xmin>168</xmin>
+			<ymin>1623</ymin>
+			<xmax>573</xmax>
+			<ymax>1991</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>387</xmin>
-			<ymin>2941</ymin>
-			<xmax>1237</xmax>
-			<ymax>3718</ymax>
+			<xmin>391</xmin>
+			<ymin>2945</ymin>
+			<xmax>1241</xmax>
+			<ymax>3700</ymax>
 		</bndbox>
 	</object>
 </annotation>

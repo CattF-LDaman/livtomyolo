@@ -1,7 +1,7 @@
 <annotation>
-	<folder>livbuild</folder>
+	<folder>livbuild-temp</folder>
 	<filename>IMG_20220208_101521.jpg</filename>
-	<path>C:\Users\Luwe\Dev\livtomyolo\livbuild\IMG_20220208_101521.jpg</path>
+	<path>C:\Users\Luwe\Dev\livtomyolo\livbuild-temp\IMG_20220208_101521.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,63 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tagged_paint</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>81</xmin>
-			<ymin>230</ymin>
-			<xmax>228</xmax>
-			<ymax>361</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tagged_crane</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>273</xmin>
-			<ymin>187</ymin>
-			<xmax>400</xmax>
-			<ymax>270</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>airium</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>471</xmin>
-			<ymin>263</ymin>
-			<xmax>543</xmax>
-			<ymax>328</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>tagged_claw</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>355</xmin>
-			<ymin>329</ymin>
-			<xmax>437</xmax>
-			<ymax>404</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tagged_H</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>259</xmin>
-			<ymin>449</ymin>
-			<xmax>314</xmax>
-			<ymax>501</ymax>
+			<ymin>330</ymin>
+			<xmax>435</xmax>
+			<ymax>405</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,46 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>411</xmin>
-			<ymin>436</ymin>
+			<xmin>412</xmin>
+			<ymin>435</ymin>
 			<xmax>492</xmax>
-			<ymax>512</ymax>
+			<ymax>510</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>metal</name>
+		<name>airium</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>97</xmin>
-			<ymin>482</ymin>
-			<xmax>199</xmax>
-			<ymax>583</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>322</xmin>
-			<ymin>543</ymin>
-			<xmax>397</xmax>
-			<ymax>627</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tagged_cone</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>217</xmin>
-			<ymin>582</ymin>
-			<xmax>290</xmax>
-			<ymax>671</ymax>
+			<xmin>469</xmin>
+			<ymin>264</ymin>
+			<xmax>541</xmax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +53,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>504</xmin>
+			<xmin>500</xmin>
 			<ymin>459</ymin>
 			<xmax>600</xmax>
-			<ymax>552</ymax>
+			<ymax>558</ymax>
 		</bndbox>
 	</object>
 </annotation>

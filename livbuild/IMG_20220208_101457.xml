@@ -108,30 +108,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>tagged_wheelbarrow</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2028</xmin>
-			<ymin>3354</ymin>
-			<xmax>3014</xmax>
-			<ymax>3950</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tagged_sign</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1259</xmin>
-			<ymin>3413</ymin>
-			<xmax>2164</xmax>
-			<ymax>4032</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>tagged_hook</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

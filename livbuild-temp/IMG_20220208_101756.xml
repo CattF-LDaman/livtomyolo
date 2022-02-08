@@ -1,0 +1,26 @@
+<annotation>
+	<folder>livbuild-temp</folder>
+	<filename>IMG_20220208_101756.jpg</filename>
+	<path>C:\Users\Luwe\Dev\livtomyolo\livbuild-temp\IMG_20220208_101756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>285</ymin>
+			<xmax>400</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

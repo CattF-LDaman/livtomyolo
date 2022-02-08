@@ -1,0 +1,5 @@
+train: 'C:\Users\Luwe\Dev\livtomyolo\livbuild-temp_convert\images\train'
+val: 'C:\Users\Luwe\Dev\livtomyolo\livbuild-temp_convert\images\val'
+
+nc: 5
+names: ['airium', 'samples', 'tagged_brick', 'tagged_claw', 'tagged_shovels']

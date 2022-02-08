@@ -1,0 +1,26 @@
+<annotation>
+	<folder>livbuild-temp</folder>
+	<filename>IMG_20220208_101822.jpg</filename>
+	<path>C:\Users\Luwe\Dev\livtomyolo\livbuild-temp\IMG_20220208_101822.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tagged_claw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>597</ymin>
+			<xmax>574</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

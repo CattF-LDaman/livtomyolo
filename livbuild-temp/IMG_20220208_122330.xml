@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testimg</folder>
+	<filename>IMG_20220208_122330.jpg</filename>
+	<path>C:\Users\Luwe\Dev\livtomyolo\testimg\IMG_20220208_122330.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samples</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>238</ymin>
+			<xmax>520</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>
