@@ -1,0 +1,5 @@
+train: 'C:\Users\Luwe\Dev\livtomyolo\livbuild-temp_convert\images\train'
+val: 'C:\Users\Luwe\Dev\livtomyolo\livbuild-temp_convert\images\val'
+
+nc: 16
+names: ['airium', 'metal', 'samples', 'stone', 'tagged_H', 'tagged_arrow_wall', 'tagged_brick', 'tagged_claw', 'tagged_cone', 'tagged_crane', 'tagged_hook', 'tagged_paint', 'tagged_shovels', 'tagged_sign', 'tagged_wheelbarrow', 'tagged_worker']

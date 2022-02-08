@@ -75,7 +75,7 @@ def convert_to_yolov5(target_dir, filename, info_dict, class_mapping):
             b_height   /= image_h
 
             #Write the bbox details to the file
-            annotation_file.write("{} {:.3f} {:.3f} {:.3f} {:.3f}".format(class_id, b_center_x, b_center_y, b_width, b_height))
+            annotation_file.write("{} {:.3f} {:.3f} {:.3f} {:.3f}\n".format(class_id, b_center_x, b_center_y, b_width, b_height))
 
 def process_dataset(dataset_path, new_dataset_path, image_ext):
 
