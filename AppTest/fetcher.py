@@ -9,6 +9,9 @@ import io
 import sys
 import cv2
 import numpy
+import os
+
+os.environ["OPENCV_FFMPEG_CAPTURE_OPTIONS"] = "rtsp_transport;udp"
 
 class Fetcher:
 
@@ -24,7 +27,7 @@ class Fetcher:
 
         self.fetching = True
         self.image = None
-        self.capper = cv2.VideoCapture(camera)
+        self.capper = cv2.VideoCapture('rtsp://192.168.1.3:5554') #cv2.VideoCapture(camera)
 
         self.resolution = (self.capper.get(cv2.CAP_PROP_FRAME_WIDTH),self.capper.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
